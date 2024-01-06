@@ -1,0 +1,5 @@
+TuniLib;Sebesta;Programming Languages;14
+Sampola;Budd;Data Structures in C++;2
+Sampola;Wirth;Compiler Construction;on-the-shelf
+Metso;Savitch;Problem Solving with C++;8
+TuniLib;Sebesta;Programming Languages;10
